@@ -1,0 +1,12 @@
+name="Pooja"
+print(name)
+print(type(name))
+age=28
+print(age)
+print(type(age))
+height=5.4
+print(height)
+print(type(height))
+is_student=False
+print(is_student)
+print(type(is_student))

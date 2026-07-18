@@ -1,0 +1,11 @@
+student={
+    "name":"Pooja",
+    "age":"25",
+    "city":"Mumbai"
+}
+print(student)
+student["age"]=26
+print(student)
+student["city"]="Bangkok"
+student["name"]="Anjali"
+print(student)

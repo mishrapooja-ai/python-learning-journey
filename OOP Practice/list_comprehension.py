@@ -11,3 +11,8 @@ names=["python","pooja","ai","mumbai"]
 result=[name.upper() for name in names]
 print(result)
 
+#print only even numbers
+numbers=[1,2,3,4,5,6,7,8,9]
+even=[num for num in numbers if num%2==0 ]
+print(even)
+
